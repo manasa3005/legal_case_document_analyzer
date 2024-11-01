@@ -7,6 +7,7 @@ This model is developed using California Case Laws dataset in Kaggle: https://ww
 Important features like case title, time_stamp and document is given as input for generating summary.
 The output is shown in table format with title, summary of cases and similarity_score (for user input and existing cases).
 The overall optput shows how much the user's case is matching the existing cases.
+The model is integrated into a website using Streamlit.
 
 
 # Important features:
